@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    align-items: center;
+    gap: 2em;
+    background-color: rgba(0, 255, 255, 0.185);
+    padding: 1em;
+    min-width: 100%;
+}
+.header__logo{
+    max-width: 10%;
+}
+.header__menu{
+    display: flex;
+    gap: 1em;
+}
+.menu__item{
+
+}
+.menu__item{
+
+}
+.menu__item{
+
+}
+.header__buttons{
+    display: flex;
+    gap: 2em;
+}
