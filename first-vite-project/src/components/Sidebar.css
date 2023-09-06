@@ -3,6 +3,8 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    background-color: antiquewhite;
+    padding: 2em 1em;
 }
 .sidebar__body{
     display: flex;
